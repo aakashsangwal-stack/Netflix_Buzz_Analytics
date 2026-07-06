@@ -66,14 +66,6 @@ This project analyzes Netflix titles to uncover insights into content distributi
 - Data Storytelling
 - Business Intelligence
 - UI/UX Design
-- HTML Content Visual Development
-
-## 🚀 Future Enhancements
-
-- Add drill-through reports
-- Create additional custom HTML/SVG visuals
-- Integrate live data sources
-- Enhance advanced tooltip interactions
 
 ---
 
